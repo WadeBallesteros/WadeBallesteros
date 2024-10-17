@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @WadeBallesteros
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Wade Ballesteros from Philippines
+- 👀 I’m interested in p\Programming
 - 🌱 I’m currently learning nextJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me wadeballesteros@gmail.com 
 - 😄 Pronouns: im/him
 - ⚡ Fun fact: im a musician 
 
